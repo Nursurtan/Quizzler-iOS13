@@ -15,13 +15,8 @@ struct Question {
     init(q: String, a: String) {
         text = q
         answer = a
-        
-        
-        
-        
+       
     }
-    
-    
     
 }
 
